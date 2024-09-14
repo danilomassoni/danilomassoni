@@ -56,13 +56,13 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/danilomassoni/count.svg?"  />
+  <img src="www.linkedin.com/in/danilo-massoni"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@danilomassoni" alt="Layout with last medium posts"  />
+  <img src="[https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@danilomassoni](https://medium.com/@danilomassoni)" alt="Layout with last medium posts"  />
 </div>
 
 ###
