@@ -41,11 +41,13 @@
 
 ###
 
-### Redes Socoias:
+### Redes Sociais:
 
-[INSTAGRAM] (https://www.instagram.com/danilomassoni/)
-[LINKEDIN] (www.linkedin.com/in/danilo-massoni)
-[TWITTER X] (https://x.com/danilomassoni)
+[INSTAGRAM](https://www.instagram.com/danilomassoni/)
+
+[LINKEDIN](www.linkedin.com/in/danilo-massoni)
+
+[TWITTER X](https://x.com/danilomassoni)
 
 ###
 
