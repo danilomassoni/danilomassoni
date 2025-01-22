@@ -41,7 +41,7 @@
 
 ###
 
-### Redes Sociais:
+### Social Media:
 
 [INSTAGRAM](https://www.instagram.com/danilomassoni/)
 
