@@ -1,4 +1,4 @@
-<h2 align="left">Hi!!!! My name is Danilo! Lets go!</h2>
+<h2 align="left">Hi!!!! My name is Danilo! I am a software and data specialist focused on the education sector. Lets go!</h2>
 
 ###
 
