@@ -1,11 +1,7 @@
-<h2 align="left">Hi!!!! My name is Danilo! I am a software and data specialist focused on the education sector. Lets go!</h2>
+<h2 align="left">Hi!!!! My name is Danilo! I am a software and data specialist focused on the education sector.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilomassoni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-</div>
 
 ###
 
@@ -36,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  
 </div>
 
 ###
@@ -47,7 +43,6 @@
 
 [LINKEDIN](www.linkedin.com/in/danilo-massoni)
 
-[TWITTER X](https://x.com/danilomassoni)
 
 ###
 
